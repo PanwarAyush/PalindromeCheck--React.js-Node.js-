@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Palindrome check",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanwarAyush/PalindromeCheck--React.js-Node.js-.git"
+  },
+  "author": "Ayush Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanwarAyush/PalindromeCheck--React.js-Node.js-/issues"
+  },
+  "homepage": "https://github.com/PanwarAyush/PalindromeCheck--React.js-Node.js-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
